@@ -67,6 +67,7 @@ Asegúrense que el nivel permita que el jugador logre los objetivos planteados. 
 - Que tenga un camino posible para hacer lo que debe hacer
 - Que los pickups estén en lugares donde tenga sentido que estén
 - Que la cantidad de pickups sea suficiente para que pueda jugar, pero no demasiados como para que no se le haga muy fácil. Acá me refiero mas que nada a los pickups que dan municiones, salud, maná, etc
+- Que los ítems necesarios para desbloquear puertas estén. Y permitan desbloquear las puertas (llaves, documentos, etc)
 - Que el jugador no pueda atravesar / noclippear una pared, para que no se saltee el nivel y vaya de una a la salida
 
 No pido mas que una escena. Pero si quieren usar mas de una, pueden hacerlo.
